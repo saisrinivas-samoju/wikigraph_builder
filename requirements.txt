@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+openai
+pydantic
+pydantic_core
+langchain_openai
+ipywidgets
+notebook
+ensure # Check the datatypes

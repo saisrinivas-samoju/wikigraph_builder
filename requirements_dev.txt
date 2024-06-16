@@ -1,0 +1,19 @@
+langchain
+langchain-core
+langchain-community
+openai
+pydantic
+pydantic_core
+langchain_openai
+ipywidgets
+notebook
+ensure # Check the datatypes
+
+
+# dev requirements
+ipykernel
+pytest
+tox
+black # for formatting
+flake8 # for linting
+mypy # for type check
